@@ -1,0 +1,11 @@
+$ tree --charset=ascii
+.
+|-- scrapy.cfg
+`-- newproject
+    |-- __init__.py
+    |-- items.py
+    |-- middlewares.py
+    |-- pipelines.py
+    |-- settings.py
+    `-- spiders
+        `-- __init__.py
